@@ -1,0 +1,17 @@
+{
+    "name": "@delphix/dct-api-schema",
+    "description": "Delphix DCT API Schema",
+    "delphixProduct": "DCT API Schema",
+    "delphixInternal": true,
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/delphix/apigw-services.git"
+    },
+    "files": [
+        "api.yaml",
+        "commit-hash.txt"
+    ]
+}
